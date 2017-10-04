@@ -1,0 +1,17 @@
+#profile-pic {
+  border-radius: 50%;
+  height: 200px;
+}
+
+.portfolio-img {
+  height: 300px;
+}
+
+footer{
+  background-color: #2C3E50;
+}
+
+.fa {
+  color: white;
+  text-align: center;
+}
